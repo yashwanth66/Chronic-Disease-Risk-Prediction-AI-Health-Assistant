@@ -1,4 +1,4 @@
-# ArthriSense - Arthritis Risk Assessment App
+# NexHealth - Arthritis Risk Assessment App
 
 Interactive UI for arthritis risk prediction using XGBoost + FastAPI + React + Claude AI.
 
